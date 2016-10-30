@@ -1,0 +1,67 @@
+.table{
+    margin-left:15%; 
+    margin-right:15%;
+	margin-top:8%; 
+    margin-bottom:15%;	
+	width:50%;
+	height:50%;
+	
+	border:1px solid black;
+	   
+}
+.labelNm{
+
+    float:left;/*fix for  buggy browsers*/
+  display:table-column; 
+   width:50%;  
+
+  
+}
+.textNm{
+    float:left;/*fix for  buggy browsers*/
+  display:table-column;  
+  width:50%;  
+
+  
+}
+.LabelSx{
+   
+    float:left;/*fix for  buggy browsers*/
+	display:table-column; 
+	width:50%; 
+
+}
+
+.radioSx{
+ 
+  float:left;/*fix for  buggy browsers*/
+  width:50%;         	
+    height:50%;
+	width:auto;     
+  
+}
+.form-group{
+margin-left:3%;
+	margin-top:3%;
+    height:50%;
+	width:auto;	       
+  
+}
+
+.radioButton{
+	margin-left:3%;
+    height:50%;
+	width:auto;       
+  
+}
+
+.tableSendResponse{
+	margin-left:15%; 
+    margin-right:15%;
+	margin-top:8%; 
+    margin-bottom:15%;	
+	width:50%;
+	height:50%;
+	
+}
+
